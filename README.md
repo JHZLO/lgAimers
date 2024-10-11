@@ -10,7 +10,7 @@
 
 - 노션 템플릿을 이용하여 협업
 
-  참고: https://www.notion.so/24-LG-Aimers-LG-640b68d15392436aa57a15bed1f00195?pvs=4
+  [참고](https://capricious-monarch-1a7.notion.site/24-LG-Aimers-LG-640b68d15392436aa57a15bed1f00195?pvs=4)
 
 ### 성능을 올리는 데에 있어서 핵심
 - 점수가 크게 오른 feature에 대한 전처리
